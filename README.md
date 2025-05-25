@@ -8,7 +8,10 @@
 你好我是一个特别普通的人
 请多多关照
 
-<!---
-EWCW-boyanli/EWCW-boyanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+日本語：
+こんにちは私はとても普通の人です
+よろしくお願いします
+
+한국어: 
+안녕하세요 저는 아주 평범한 사람이에요 
+잘 보살펴 주세요
