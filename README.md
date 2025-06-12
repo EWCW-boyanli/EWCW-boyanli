@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on???(nothing)
 - 📫 How to reach me (**liboyan0624@sina.com**)   
 *And maybe I will use my **Gmail** to reply.*
-- If you want to cooperate with me, please send your request to my email 
+- If you want to cooperate with me, please send to my email 
 
 中：
 - 你好😆我是一个特别普通的人
