@@ -3,7 +3,7 @@
 - 👀 I’m interested in football
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on???(nothing)
-- 📫 How to reach me (I cannot tell you my address)
+- 📫 How to reach me (**liboyan0624@gmail.com**)
 
 
 中：
