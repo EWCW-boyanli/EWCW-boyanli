@@ -40,3 +40,8 @@ I'm a &frac12; person.
 | --- | --- | --- |
 | hello | fucking bro | hi |
 | great to see you | fuck | wow |
+
+# Maths methods 
+| | f(x) |
+| --- | --- |
+| 1 | x+y ≥ 2√xy |
