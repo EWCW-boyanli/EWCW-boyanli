@@ -35,6 +35,7 @@
 
 I'm a &frac12; person.  
 
+#English use methods 
 | good | not use | it's ok |
 | --- | --- | --- |
 | hello | Dick | hi |
