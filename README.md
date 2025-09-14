@@ -35,6 +35,7 @@
 
 I'm a &frac12; person.  
 
+| hello | not use | it's ok |
 | --- | --- | --- |
 | Good | Dick | shit |
 | aye | usk | kwk |
