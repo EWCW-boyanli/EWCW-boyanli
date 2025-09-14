@@ -35,6 +35,4 @@
 
 I'm a &frac12; person.  
 
-|---|---|---|
-|Good|Dick|shit|
-|aye|usk|kwk|
+|---|---|---||Good|Dick|shit||aye|usk|kwk|
