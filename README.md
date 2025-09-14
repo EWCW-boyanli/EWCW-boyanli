@@ -44,4 +44,4 @@ I'm a &frac12; person.
 # Maths methods 
 | | f(x) |
 | --- | --- |
-| 1 | x+y ≥ 2√xy |
+| 1 | x+y ≥ 2 $\sqrt{xy}$ |
