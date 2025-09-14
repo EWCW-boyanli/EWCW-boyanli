@@ -35,7 +35,7 @@
 
 I'm a &frac12; person.  
 
-| :good: | not use | it's ok |
+| good | not use | it's ok |
 | --- | --- | --- |
 | hello | Dick | hi |
 | great to see you | fuck | wow |
