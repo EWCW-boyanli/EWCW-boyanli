@@ -44,7 +44,7 @@ I'm a &frac12; person.
 | I love you | Ok I want to have sex with you | Hehehe |
 
 # Maths methods 
-| | f(x) |
-| --- | name | content |
+| f(x) | name | content |
+| --- | --- | --- |
 | 1 | unknown | x+y ≥ 2√xy |
 | 2 | Cauchy-Schwarz inequality | (a_1^2 + a_2^2)(b_1^2 + b_2^2) \geq (a_1b_1 + a_2b_2)^2 |
