@@ -40,6 +40,8 @@ I'm a &frac12; person.
 | --- | --- | --- |
 | hello | fucking bro | hi |
 | great to see you | fuck | wow |
+| I'm going to be your `son` | I'm your dad | boring..... |
+| I love you | Ok I want to have sex with you | Hehehe |
 
 # Maths methods 
 | | f(x) |
