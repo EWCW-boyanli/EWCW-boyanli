@@ -47,3 +47,4 @@ I'm a &frac12; person.
 | | f(x) |
 | --- | --- |
 | 1 | x+y ≥ 2√xy |
+| 2 | Cauchy-Schwarz inequality | (a_1^2 + a_2^2)(b_1^2 + b_2^2) \geq (a_1b_1 + a_2b_2)^2 |
