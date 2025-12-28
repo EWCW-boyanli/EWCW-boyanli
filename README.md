@@ -8,7 +8,7 @@
 *And maybe I will use my **Gmail** to reply.*
 - If you want to cooperate with me, please send to my email 
 
-**中：**   
+**`中：`**   
 - 网站服务器基础：https://gitHub.com  
 - 本站：https://github.com/EWCW-boyanli 
 - 你好😆我是一个特别普通的人
@@ -45,5 +45,3 @@ I'm a &frac12; person.
 | | f(x) |
 | --- | --- |
 | 1 | x+y ≥ 2√xy |
-
-`鸡巴`
